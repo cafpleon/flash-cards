@@ -1,0 +1,12 @@
+0001 mama mama
+0002 daddy papá
+0003 hand mano
+0004 face cara
+0005 finger dedo
+0006 eyebrow ceja x mama
+0007 mouth boca x daddy
+0008 hair pelo x hand
+0009 elbow codo x face
+0010 eye ojo x finger
+0011 foot pie x eyebrow
+0012 nail uña X mouth
