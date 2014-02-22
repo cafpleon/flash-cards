@@ -10,3 +10,48 @@
 0010 eye ojo x finger
 0011 foot pie x eyebrow
 0012 nail uña X mouth
+0013 teeth dientes x hair 
+
+
+Palabras del cuerpo:
+- pulgar - barriga - oreja - meñique - dedos - pestañas - muñeca - pene
+- mentón - puño - nuca - rodilla - tobillo - codo - dedo - muela
+- labio - brazo - ombligo - frente - anular - palma - planta - espinillas
+- nariz - vagina - pelo - corazón - pie - lengua - axila - 
+- ingle - ceja - espalda - cadera - colmillo - cabello - pierna - pecho
+- ojo - barbilla - labios - cintura - cabeza - hombro - índice - cuello - talón - mejilla 
+
+
+Personas cercanas
+abuelo tío señorita maestra
+hijo prima amiga compañero
+abuela tía maestro hija
+primo señor nieto niño
+hermano vecino familia señora
+nieta sobrina niña hermana
+vecina prima amiga sobrino amigo 
+
+Objetos de la clase:
+- percha - folio - mesa - pintura - goma - tijeras - cola - espejo
+- plastilina - bolsa - babero - recreo - silla - colores - sacapuntas - almohadilla
+- martillo - rincones - corcho - bloques - vaso - pelota - lápiz - armario
+- cuchillos - punzón - tornillo - rotuladores - ficha - pizarra - carpeta - zancos
+- ceras - pincel - caja - pegamento - taladro - bandeja - compañero - cocina
+- merienda - canción - maceta - regla - banco - puzzle - alfombra - cuento
+
+vocabulario doméstico 
+- silla - bañera - dormitorio - lámpara - cojín - cama - cajón - jarra
+- plato - vestido - almohada - cuchara - horno - calcetines - taza - mesa
+- televisión - frigorífico - grifo - sillón - foto - video - pijama - reloj
+- cortina - zapatos - biberón - chaquetón - gafas - traje - pared - cocina
+- escalón - lavabo - teléfono - cinta - pelota - percha - muñeco - gorro
+- jamón - puzzle - naranja - cenicero - tenedor - ventana - puerta - salón
+- sofá - cuadro - libro - florero - juguete - pantalones - galleta - botella
+- coche - libro - tostador - persiana
+
+verbos
+- escucha - baja - para - tiene - pone - sabe - recibe - mira
+- come - es - escribe - dibuja - quita - abre - llega - hay
+- sienta - sube - pinta - camina - elige - da - juega - está
+- duerme - salta - sueña - bebe - sirve - cierra - coge - hace
+
