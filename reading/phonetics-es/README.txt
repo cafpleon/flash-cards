@@ -9,25 +9,31 @@ mes mos mus
 pas pes.. pus
 mal mel mil.. mul 
 pal pel.. pul
-
-
-
-AQUI VOY
-
-
-nena
 noé
 nené
 nulo
+nilo
 sam sem.. sum
+Elena pasea a su mono
+Esa nena me anima
 sal sel.. sul
+La mona lame mi mano
 sas ses.. sus
-
 nam nem.. num
+Mi mamá mima a su nené.
+AQUI VOY
+
+
+
+
+
+
+
+
 nas nes.. nus
 nal nel.. nul
 
-Elena pasea a su mono
+
 
 
 an en in on un
@@ -44,6 +50,7 @@ sansón
 ta te ...tu
 
 ana tiene una nené
+Sansón no nos apena
 Tina toma una nota
 
 
