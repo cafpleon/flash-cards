@@ -3,14 +3,19 @@ el pdf importarlo en gimp y luego exportarlo como .gif
 voy en el 0040
 revisar este tamaño en la tablet
 
-sigue T
 ta te ...tu
+
+AQUI VOY
 
 ana tiene una nené
 
 Tina toma una nota
 
-ya M, P, L, S, N  
+
+
+
+====================================
+YA: M, P, L, S, N  
 na ne.. nu
 mes mos mus
 ..lana
@@ -37,30 +42,13 @@ Emmanuel
 Emmanuel no sale solo al nilo.
 nal nel.. nul
 Sansón pasea la mula al Sena.
-
-AQUI VOY
-
-
 an en in on un
-Noé se asoma a la loma
+Simona puso un maní en la sopa.
+pla, ple...plu
+Plinio sopla en lo plano.
 nan nen.. nun
-Ese enano malo no me sana.
+Ese enano malo no se sana.
 pan pen.. pun
-el sapo se pasea
-san sen... sun
-Noé puso maní en la sopa.
-sal sel .. sul
-La mona sale a la loma
+el sapo se pasea en el pan
 man ... mun
-
-
-
-
-
-
-
-
-
-
-
-
+La mona mansa sale a la loma
