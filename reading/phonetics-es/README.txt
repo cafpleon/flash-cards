@@ -1,18 +1,33 @@
+escribir las palabras en word y exportarlas como pdf.
 el pdf importarlo en gimp y luego exportarlo como .gif
 
 voy en el 0040
 revisar este tamaño en la tablet
 
 ta te ...tu
+tomate lata pelota tela timo mata totuma pato tina maleta pito tapa nata
+tuna moto toma teme pita
 
 AQUI VOY
 
-ana tiene una nené
-
-Tina toma una nota
 
 
 
+Tiana tiene una tina.
+El pato mete la pata.
+Tina toma una nota.
+Tómate el tomate.
+Toma la pelota 
+Mete el tomáte en la maleta.
+El tití no monta en moto.
+Patea la pelota.
+
+tam tem... tum
+tal tel ...tul
+tas tes ... tus
+tan ten ... tun
+tla tle ... tlu
+tie 
 
 ====================================
 YA: M, P, L, S, N  
