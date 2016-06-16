@@ -7,27 +7,46 @@ revisar este tamaño en la tablet
 ta te ...tu
 tomate lata pelota tela timo mata totuma pato tina maleta pito tapa nata
 tuna moto toma teme pita
-
+El pito si pita.
+patea
+Patea la pelota.
+tie
+tiene
+tiene nata la sopa.
+Tomás
+Tomás tapa la tina.
+Mateo
+limpia
+Mateo limpia el tití.
+pata
+El pato tiene su pata.
+monta
+Emmanuel monta su moto.
+nota
+entona
+La tuna si entona.
+mete
+mete el pato en la tina.
+Emmanuel tiene su pelota.
+Toma tu tomate.
+Pon la nata en la totuma.
 AQUI VOY
 
 
 
 
-Tiana tiene una tina.
-El pato mete la pata.
-Tina toma una nota.
-Tómate el tomate.
-Toma la pelota 
-Mete el tomáte en la maleta.
-El tití no monta en moto.
-Patea la pelota.
+
+Tomás una pelota.
+Toma la pelota.
+Pon el tomate en la maleta.
+
 
 tam tem... tum
 tal tel ...tul
 tas tes ... tus
 tan ten ... tun
 tla tle ... tlu
-tie 
+
 
 ====================================
 YA: M, P, L, S, N  
