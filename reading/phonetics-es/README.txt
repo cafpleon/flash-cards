@@ -30,17 +30,22 @@ mete el pato en la tina.
 Emmanuel tiene su pelota.
 Toma tu tomate.
 Pon la nata en la totuma.
+salmos
+Samuel
+Samuel lee los salmos.
+Suelta
+Suelta una pelota.
+alista
+alista la maleta.
 AQUI VOY
 
 
+da de...du
 
 
-salmos
-Samuel
 
-Tomás una pelota.
-Toma la pelota.
-Pon el tomate en la maleta.
+
+
 
 
 tam tem... tum
@@ -51,7 +56,7 @@ tla tle ... tlu
 
 
 ====================================
-YA: M, P, L, S, N  
+YA: M, P, L, S, N, T 
 na ne.. nu
 mes mos mus
 ..lana
