@@ -37,10 +37,28 @@ Suelta
 Suelta una pelota.
 alista
 alista la maleta.
+da de...du
+dama seda todo nada duda mudo pomada soda
+dime lado moneda pide dedo saluda suda sana
+uno usa nido nudo dado donde diente 
+Daniel dejó duele dedos dados 
 AQUI VOY
 
+dad
+sanidad
 
-da de...du
+
+
+Dame ese dado.
+Daniel duda donde dejó el dado.
+Dime si te duele el dedo.
+Usa la seda en los dientes.
+esa pomada sana mis dedos.
+El pato nada a su nido.
+Esa dama te saluda.
+
+
+
 
 
 
