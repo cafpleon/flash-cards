@@ -41,21 +41,26 @@ da de...du
 dama seda todo nada duda mudo pomada soda
 dime lado moneda pide dedo saluda suda sana
 uno usa nido nudo dado donde diente 
-Daniel dejó duele dedos dados 
+Daniel está duele dedos dados 
+desata dental
+donde está el dado.
+Dime si te duele el dedo.
+Usa la seda dental.
+Esa pomada sanó mis dedos.
+Pide todas sus monedas.
+El pato nada a su nido.
+Esta dama te saluda.
+Daniel no tiene dudas. 
 AQUI VOY
 
 dad
-sanidad
+sanidad sanó
 
 
+ra, re...ru (azul)
+toro muro arena loro salero mariposa madera arete mora torero pera marino
+mira tetero pera maduro duro aro
 
-Dame ese dado.
-Daniel duda donde dejó el dado.
-Dime si te duele el dedo.
-Usa la seda en los dientes.
-esa pomada sana mis dedos.
-El pato nada a su nido.
-Esa dama te saluda.
 
 
 
