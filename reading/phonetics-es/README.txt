@@ -50,23 +50,29 @@ Esa pomada sanó mis dedos.
 Pide todas sus monedas.
 El pato nada a su nido.
 Esta dama te saluda.
-Daniel no tiene dudas. 
+Daniel no tiene dudas.
+ora, iré...uru (azul) 
+toro muro arena loro salero mariposa madera arete mora torero pera marino
+
 AQUI VOY
 
 dad
 sanidad sanó
 
 
-ra, re...ru (azul)
-toro muro arena loro salero mariposa madera arete mora torero pera marino
-mira tetero pera maduro duro aro
 
 
+mira tetero maduro duro aro pirata aro pirueta arco 
+comer ir borde lemur árbol cambiar comparar 
+
+despues de una vocal
 
 
+radio reno rio rosa ruido rama 
 
+l n s r 
 
-
+alrededor enredo Israel 
 
 
 
