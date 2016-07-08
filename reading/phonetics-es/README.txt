@@ -53,11 +53,12 @@ Esta dama te saluda.
 Daniel no tiene dudas.
 ora, iré...uru (azul) 
 toro muro arena loro salero mariposa madera arete mora torero pera marino
-
+rosa rata perro torre rana remo risa ropa rama 
 AQUI VOY
 
 dad
 sanidad sanó
+
 
 
 
