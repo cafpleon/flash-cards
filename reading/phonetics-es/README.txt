@@ -54,22 +54,26 @@ Daniel no tiene dudas.
 ora, iré...uru (azul) 
 toro muro arena loro salero mariposa madera arete mora torero pera marino
 rosa rata perro torre rana remo risa ropa rama 
-AQUI VOY
-
 dad
 sanidad sanó
+mira tetero maduro dura pirata aro pirueta  
+ar,er, ir...ur (despues de una vocal es r)
+comer borde lemur árbol cambiar comparar arco
+
+AQUI VOY
 
 
 
 
 
-mira tetero maduro duro aro pirata aro pirueta arco 
-comer ir borde lemur árbol cambiar comparar 
-
-despues de una vocal
 
 
-radio reno rio rosa ruido rama 
+
+
+
+
+ra re ..ru
+radio reno rio rosa ruido 
 
 l n s r 
 
