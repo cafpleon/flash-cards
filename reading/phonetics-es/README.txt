@@ -2,6 +2,7 @@ escribir las palabras en word y exportarlas como pdf.
 el pdf importarlo en gimp y luego exportarlo como .gif
 
 http://www.gifs-animados.es/gifs-imagenes/
+https://primeroprimariavedruna.wordpress.com/tag/palabras/
 
 voy en el 0040
 revisar este tamaño en la tablet
@@ -14,16 +15,30 @@ l n s r
 alrededor enredo Israel 
 
 
-REVISAR ESTAS --> borde  árbol cambiar comparar arco
+REVISAR ESTAS --> borde  árbol cambiar comparar arco comer 
 
 AQUI VOY
 
 
+ca co cu que qui
+
+casa cama coco cuna copa pico cono capa camisa saco cuna cuenco corona loco cara capa rico
+carro cuna carreta queso líquido máquina paquete pequeño química
+queda quita pica mosquíto aquí equipo catar cantar contar cola copa 
+raqueta líquido
 
 
-
-
-
+Daniela come queso en su casa.
+Me picó un mosquito.
+La casa queda aquí.
+Daniel come poco.
+Paco usa su capa. 
+Mamá cuida su casa.
+La mula tira de la carreta.
+Toma este caramelo de coco.
+Mi lorito me da su patica.
+Corre, se quema la casa.
+Toma líquido en el cuenco de la mano.
 
 
 
@@ -132,4 +147,4 @@ dad
 sanidad sanó
 mira tetero maduro dura pirata aro pirueta  
 ar,er, ir...ur (despues de una vocal es r)
-comer lemur
+lemur
