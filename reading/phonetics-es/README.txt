@@ -15,17 +15,22 @@ l n s r
 alrededor enredo Israel 
 
 
-REVISAR ESTAS --> borde  árbol cambiar comparar arco comer 
+REVISAR ESTAS --> borde  árbol cambiar   
+
+ca co cu que qui
+casa cama coco cuna copa
+queso líquido máquina paquete pequeño
+rampa entropía arco comer comparar
 
 AQUI VOY
 
 
-ca co cu que qui
 
-casa cama coco cuna copa pico cono capa camisa saco cuna cuenco corona loco cara capa rico
-carro cuna carreta queso líquido máquina paquete pequeño química
-queda quita pica mosquíto aquí equipo catar cantar contar cola copa 
-raqueta líquido
+ pico cono capa camisa saco cuenco corona loco cara capa rico
+carro carreta química
+ equipo catar cantar contar cola
+raqueta queda quita pica mosquíto aquí
+
 
 
 Daniela come queso en su casa.
