@@ -21,16 +21,20 @@ ca co cu que qui
 casa cama coco cuna copa
 queso líquido máquina paquete pequeño
 rampa entropía arco comer comparar
-
+ña,...ñu.
 AQUI VOY
 
+niña moño señor niño paño uña 
+
+va,...vu (azul)
 
 
  pico cono capa camisa saco cuenco corona loco cara capa rico
 carro carreta química
  equipo catar cantar contar cola
 raqueta queda quita pica mosquíto aquí
-
+ leña piña
+año caña muñeca araña puño mañana
 
 
 Daniela come queso en su casa.
@@ -45,7 +49,8 @@ Mi lorito me da su patica.
 Corre, se quema la casa.
 Toma líquido en el cuenco de la mano.
 
-
+casa del Señor
+día del Señor
 
 
 
