@@ -3,6 +3,9 @@ el pdf importarlo en gimp y luego exportarlo como .gif
 
 http://www.gifs-animados.es/gifs-imagenes/
 https://primeroprimariavedruna.wordpress.com/tag/palabras/
+http://www.trucosapalabrados.com/blog/26-palabras-con-n/
+http://dle.rae.es/?w=diccionario
+
 
 voy en el 0040
 revisar este tamaño en la tablet
@@ -22,40 +25,60 @@ casa cama coco cuna copa
 queso líquido máquina paquete pequeño
 rampa entropía arco comer comparar
 ña,...ñu.
-AQUI VOY
-
 niña moño señor niño paño uña 
 
+AQUI VOY
+piñon
 va,...vu (azul)
+año caña muñeca araña puño mañana
 
 
- pico cono capa camisa saco cuenco corona loco cara capa rico
+
+
+
+pico cono capa camisa saco cuenco corona loco cara capa rico
 carro carreta química
  equipo catar cantar contar cola
 raqueta queda quita pica mosquíto aquí
  leña piña
-año caña muñeca araña puño mañana
 
+aceña
 
-Daniela come queso en su casa.
-Me picó un mosquito.
-La casa queda aquí.
-Daniel come poco.
-Paco usa su capa. 
-Mamá cuida su casa.
-La mula tira de la carreta.
-Toma este caramelo de coco.
-Mi lorito me da su patica.
-Corre, se quema la casa.
-Toma líquido en el cuenco de la mano.
+“”, “acuñar”,
+ “aliño”, “amañar”, “añada”, 
+ “ceñido”,
+ “cucaña”, “cuñado”, “cureña”, “dañado”, “diseño”, “doña”, “dueña”, “empeño”, “engaño”, “escaño”, “estaño”,
+ “señal”
+ 
+    ñame: Planta herbácea de la familia de las Dioscoreáceas, muy común en los países intertropicales.
+    ñames
+    ñandubay: Árbol americano de la familia de las Mimosáceas, de madera rojiza muy dura e incorruptible.
+    ñandubais
+    ñandú: Ave corredora americana, muy veloz, que habita las grandes llanuras.
+    ñandus
+    ñandues
+    ñaque: Conjunto o montón de cosas inútiles y ridículas.
+    ñaques
+    ña: Tratamiento que se antepone al nombre de una mujer.
+    ñas
 
-casa del Señor
-día del Señor
+    ñoñez
+    ñoñeces
+    ñoño:  Soso, de poca sustancia.
+    ñoña
+    ñoñas
+    ñoños
 
+    ñu: Antílope propio del África del Sur, que parece un caballo pequeño con cabeza de toro.
+    ñus
+    ñublar: Ocultar el azul del cielo o la luz de un astro, especialmente la del Sol o la de la Luna.
 
+	
 
-
-
+ “alheña”,
+ “añafea”, “añejo”, “bañado”, “cañizo”,
+ “cizaña”,
+ “fañar”, “zuñir”,
 
 
 tam tem... tum
